@@ -4,7 +4,7 @@ I'm aspiring Junior Frontend Developer. I really enjoy learning Javascript and f
 
 Skills: HTML / CSS / JS / LUA
 
-- 🌱 I’m currently learning Javascript 
+- 🌱 I’m currently learning React
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=EmeXeN&show_icons=true)  
 
